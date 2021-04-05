@@ -1,0 +1,16 @@
+{
+  "name": "gd-ticket",
+  "version": "1.0.0",
+  "description": "De GwnDaan ticket bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GwnDaan",
+    "Ticket",
+    "Bot"
+  ],
+  "author": "_FR33KICK_",
+  "license": "ISC"
+}
